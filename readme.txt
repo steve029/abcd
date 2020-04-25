@@ -5,6 +5,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 
-This is the second version. -- version 3
+This is the second version. -- version 4
 
 -- Steven
