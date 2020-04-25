@@ -1,7 +1,10 @@
+<2020-04-25 Sat>
+
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
-Git version 1. 
+
+This is the second version. -- version 2
 
 -- Steven
