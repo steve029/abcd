@@ -1,10 +1,4 @@
-<2020-04-25 Sat>
+<2020-05-03 Sun> This is just a test for Github. 
 
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-
-
-This is the second version. -- version 4
 
 -- Steven
